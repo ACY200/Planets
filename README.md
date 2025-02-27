@@ -1,2 +1,2 @@
 # Planets
-My first ever static website!!!
+My first ever static website
